@@ -6,7 +6,7 @@
 
 <div class="row">
     <div class="col-sm-3">
-        <img src="../img/esc-key.jpg" alt="escape key" class="img-thumbnail pull-left">
+        <img src="img/esc-key.jpg" alt="escape key" class="img-thumbnail pull-left">
     </div>
     <div class="col-sm-9">
         <p>Stare at the wall, play with food and get confused by dust instantly break out into full speed gallop across the house for no reason. Chase ball of string step on your keyboard while you're gaming and then turn in a circle shove bum in owner's face like camera lens. Chase laser. Slap owner's face at 5am until human fills food dish hopped up on catnip find empty spot in cupboard and sleep all day yet please stop looking at your phone and pet me, but eat grass, throw it back up make muffins pee in human's bed until he cleans the litter box.</p>
