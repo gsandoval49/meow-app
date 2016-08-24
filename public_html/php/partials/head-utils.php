@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="" ng-app="MeowApp">
 <head>
     <!-- The 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta charset="utf-8"/>
@@ -16,7 +18,7 @@
     <!-- Our Custom CSS -->
     <link rel="stylesheet" href="css/style.css" type="text/css">
 
-    <!--Angular JS Libraries-->
+    <!--Angular JS Libraries incorporated from templating angular class-->
     <?php $ANGULAR_VERSION = "1.5.8";?> <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/<?php echo $ANGULAR_VERSION;?>/angular.min.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/<?php echo $ANGULAR_VERSION;?>/angular-messages.min.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/<?php echo $ANGULAR_VERSION;?>/angular-route.js"></script>
