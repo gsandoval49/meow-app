@@ -1,7 +1,7 @@
 <header ng-controller="navController">
     <!-- bootstrap breakpoint directive to control collapse behavior -->
-
     <bootstrap-breakpoint></bootstrap-breakpoint>
+
     <nav class="navbar navbar-default navbar-inverse">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->

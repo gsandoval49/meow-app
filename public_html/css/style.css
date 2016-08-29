@@ -24,6 +24,7 @@ body { width: 100%;}
 
 /******************************************
 * Global Styles
+* note about cover from documentation: Scale the background image to be as large as possible so that the background area is completely covered by the background image.
 *******************************************/
 html {
 	background: url("../img/cat-1044750_1920.jpg") no-repeat center;
